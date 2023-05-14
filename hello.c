@@ -1,6 +1,6 @@
-#include <iostream>
+#include "print.h"
 
 int main(){
-	printf("Hello World!");
+	hello();
 	return 0;
 }
